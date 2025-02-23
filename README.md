@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
 
-Check out my [portfolio](https://portfolio.thijs.gg).
+Check out my [portfolio](https://thijs.gg).
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
